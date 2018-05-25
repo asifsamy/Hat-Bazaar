@@ -27,6 +27,11 @@ Hat-Bazar an Online Grocery Store which will provide buying and selling of daily
 - Bootstrap Template
 - Some Others vendors such as for add to cart
 
+## Let's See
+
+#### Home Page
+![home](https://user-images.githubusercontent.com/19818734/40533908-066167b6-6026-11e8-84c2-a0a966212ee0.png)
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
