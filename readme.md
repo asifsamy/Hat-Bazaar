@@ -1,6 +1,6 @@
 ## About Hat-Bazaar
 
-Hat Bazar an Online Grocery Store which will provide buying and selling of daily Groceries. The main target of this project is to create a platform to where a customer can buy their daily necessary goods by requesting an order.On the other hand the Admin of this site approve the order and deliver the goods. Moreover, the system has been developed in such a way which makes it reliable, secure and user friendly.
+Hat-Bazar an Online Grocery Store which will provide buying and selling of daily Groceries. The main target of this project is to create a platform to where a customer can buy their daily necessary goods by requesting an order.On the other hand the Admin of this site approve the order and deliver the goods. Moreover, the system has been developed in such a way which makes it reliable, secure and user friendly.
 
 ## Customer Role
 
