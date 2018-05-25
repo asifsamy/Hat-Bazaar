@@ -32,6 +32,22 @@ Hat-Bazar an Online Grocery Store which will provide buying and selling of daily
 #### Home Page
 ![home](https://user-images.githubusercontent.com/19818734/40533908-066167b6-6026-11e8-84c2-a0a966212ee0.png)
 
+#### Select and add to cart
+![home2](https://user-images.githubusercontent.com/19818734/40534287-6169f492-6027-11e8-895d-89b6290e2d72.png)
+
+#### Cart Details
+![home3](https://user-images.githubusercontent.com/19818734/40534391-b1d91106-6027-11e8-80dd-c63d9505eeb2.png)
+
+#### Checkout by Sign In/ Sign Up
+![home4](https://user-images.githubusercontent.com/19818734/40534591-502b5e2c-6028-11e8-937c-2ea8dd3f2f57.png)
+
+#### Add/Update shipping info and choose payment
+![shipping](https://user-images.githubusercontent.com/19818734/40534698-c01ff558-6028-11e8-96b7-05fea4c9db7c.png)
+
+![payment](https://user-images.githubusercontent.com/19818734/40534784-fa19be92-6028-11e8-9684-24c968236b4c.png)
+
+#### 
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
