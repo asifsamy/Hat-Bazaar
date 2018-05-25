@@ -46,7 +46,14 @@ Hat-Bazar an Online Grocery Store which will provide buying and selling of daily
 
 ![payment](https://user-images.githubusercontent.com/19818734/40534784-fa19be92-6028-11e8-9684-24c968236b4c.png)
 
-#### 
+#### Admin Dashboard
+![admin](https://user-images.githubusercontent.com/19818734/40535004-a75b3928-6029-11e8-992c-b4d051b23c02.png)
+
+#### Manage Order
+![order](https://user-images.githubusercontent.com/19818734/40535606-5cfad2a6-602b-11e8-9864-22725920e16b.png)
+
+#### Invoice
+![invoice](https://user-images.githubusercontent.com/19818734/40535725-c18950e4-602b-11e8-9ff0-3c6574fe8a9f.png)
 
 ## Contributing
 
